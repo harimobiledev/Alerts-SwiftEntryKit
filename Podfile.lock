@@ -1,0 +1,20 @@
+PODS:
+  - QuickLayout (2.0.2)
+  - SwiftEntryKit (0.5.1):
+    - QuickLayout (= 2.0.2)
+
+DEPENDENCIES:
+  - SwiftEntryKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - QuickLayout
+    - SwiftEntryKit
+
+SPEC CHECKSUMS:
+  QuickLayout: a730730b646b231fd4ef7cffaeb1e81fe0e1ca92
+  SwiftEntryKit: 0f8ca07b9ce98eaba8e67e61d2eb16ace2303805
+
+PODFILE CHECKSUM: 0180afdaa80cecddc4efb82fda69770b97e7d6ca
+
+COCOAPODS: 1.5.3
